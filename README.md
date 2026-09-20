@@ -34,7 +34,7 @@ executes a **2-qubit Grover search** for a marked state. The oracle and the diff
 1. Clone this repository:
 
    ```bash
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/QET-IIT-Hyderabad/Core_Problem_1)
    ```
 
 2. Create a **private** repository of your own named `QET_{RollNo}_PROBLEM_{1/2}` depending on which problem statement you picked. For example, `QET_EP24BTECH11026_PROBLEM_1`.
