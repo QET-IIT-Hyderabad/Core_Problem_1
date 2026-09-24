@@ -91,7 +91,6 @@ $$S(\hat{\rho}_B) = -\sum_\alpha \lambda_\alpha^2 \log\left(\lambda_\alpha^2\rig
 
 Terms with $\lambda_\alpha = 0$ contribute 0.
 
-- [John Preskill's lecture notes on quantum information, Ch. 2 (density matrices, Schmidt decomposition, entanglement entropy)](https://arxiv.org/abs/quant-ph/9707022)
 - [Nielsen & Chuang, Ch. 2.5 (Schmidt decomposition) and Ch. 11 (entropy)](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE)
 - [Entanglement entropy (Wikipedia)](https://en.wikipedia.org/wiki/Entropy_of_entanglement)
 
